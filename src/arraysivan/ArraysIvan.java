@@ -7,7 +7,7 @@ package arraysivan;
 
 /**
  *
- * @author ivan
+ * @author Iván Fernández Ramírez
  */
 public class ArraysIvan {
 
